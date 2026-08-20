@@ -61,9 +61,23 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 
 <div align="center">
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak620&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/sarthak620">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthak620&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&show_icons=true&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=8)
+<a href="https://github.com/sarthak620">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&layout=compact&theme=dark" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak620&theme=github-dark&hide_border=true)](https://github.com/sarthak620)
 
 </div>
 
@@ -78,16 +92,6 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 | 🤖 AI/ML Project | Building intelligent machine learning models | Python, TensorFlow | [Explore](#) |
 | 💻 Full Stack App | Web application with modern frontend & backend | React, Node.js | [Explore](#) |
 | 📊 Data Analysis | Analyzing and visualizing datasets | Python, Pandas, Matplotlib | [Explore](#) |
-
----
-
-## 📈 Activity & Contributions
-
-<div align="center">
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=sarthak620&hide_border=true&theme=github-dark)
-
-</div>
 
 ---
 
@@ -136,13 +140,12 @@ Feel free to reach out if you want to collaborate or just have a chat about AI/M
 
 ---
 
-## 📝 Latest Blog Posts & Updates
-
-<!-- Will be updated with your latest projects -->
+## 📝 Latest Projects & Updates
 
 - 🚀 Currently building ML projects for real-world applications
 - 📚 Learning advanced Deep Learning architectures
 - 🎯 Exploring NLP and Computer Vision applications
+- 💻 Contributing to open-source communities
 
 ---
 
