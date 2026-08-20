@@ -61,13 +61,9 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 
 <div align="center">
 
-<a href="https://github.com/sarthak620">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthak620&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
+[![GitHub Sarthak's Stats](https://github-readme-stats.vercel.app/api?username=sarthak620&show=reviews,prs_merged_percentage&show_icons=true&theme=github_dark&bg_color=1F6FEB&icon_color=79ff97&text_color=c9cacc&title_color=0891b2&border_color=30363d)](https://github.com/sarthak620)
 
-<a href="https://github.com/sarthak620">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&layout=compact&theme=dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&layout=compact&theme=github_dark&bg_color=1F6FEB&text_color=c9cacc&title_color=0891b2&border_color=30363d)](https://github.com/sarthak620)
 
 </div>
 
@@ -77,7 +73,7 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak620&theme=github-dark&hide_border=true)](https://github.com/sarthak620)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak620&theme=github-dark&hide_border=true&hide_title=false)](https://github.com/sarthak620)
 
 </div>
 
