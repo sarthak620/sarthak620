@@ -61,11 +61,9 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak620&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak620&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak620&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak620&show_icons=true&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=8)
 
 </div>
 
@@ -87,7 +85,7 @@ I'm an MCA student specializing in **Artificial Intelligence and Machine Learnin
 
 <div align="center">
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarthak620&theme=tokyo-night&hide_border=true)](https://github.com/sarthak620)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=sarthak620&hide_border=true&theme=github-dark)
 
 </div>
 
